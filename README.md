@@ -1,2 +1,4 @@
-# linux1
+# learning
 this my repository
+<br>
+learning linux 
